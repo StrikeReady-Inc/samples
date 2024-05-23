@@ -1,2 +1,3 @@
 # samples
- shared samples from #dailyphish and/or #apt tweets
+ interesting #dailyphish and/or #apt samples
+password for archives is "infected"
