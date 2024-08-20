@@ -1,13 +1,12 @@
 https://p-game.s3.sa-east-1.amazonaws.com/af7ffc2a629a1cvn8336fde8a1f71e0a.json
-http://api.s2cloud-amazon.com:8080/common/oauth2/authorize?client_id=QnJ1bm8oaXNBZG1pbik=&&REVTS1RPUC1FVDUxQUpP&&bXVzaWN2LmV4ZQ==&&eDY0&&NEdC
-http://api.s2cloud-amazon.com:8080/api/v1/homepage/18e6fcca05a909016d871ba715db3dfe768f8e2071dca0b8e65630486a05f5df
+http://api.s2cloud-amazon.com:8080/common/oauth2/authorize?client_id=
+http://api.s2cloud-amazon.com:8080/api/v1/homepage/
 https://footracker-statics.s3.sa-east-1.amazonaws.com/new.txt
 https://footracker-statics.s3.sa-east-1.amazonaws.com/musicv.exe
 https://footracker-statics.s3.sa-east-1.amazonaws.com/v.pdf
 https://footracker-statics.s3.sa-east-1.amazonaws.com/musicv.exe.config
-http://api.s2cloud-amazon.com:8080/api/v1/homepage/aef8d13a60e625ccdcbb5501543004a7e998fb8614f6622c81352bc2989f581a
-http://api.s2cloud-amazon.com:8080/api/v1/homepage/d5ddd13b06c6f4a5c3faed1f46cf7b90017f5124ce2b0637b
-http://api.s2cloud-amazon.com:8080/common/oauth2/authorize?client_id=Z2VvcmdlKGlzQWRtaW4p&&NTM2NzIw&
+http://api.s2cloud-amazon.com:8080/api/v1/homepage/
+http://api.s2cloud-amazon.com:8080/common/oauth2/authorize?client_id=
 http://speedshare.oss-cn-hongkong.aliyuncs.com
 https://app-dimensiona.s3.sa-east-1.amazonaws.com/oncesvc.exe
 https://app-dimensiona.s3.sa-east-1.amazonaws.com/oncesvc.exe.config
