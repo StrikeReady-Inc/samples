@@ -5,7 +5,6 @@ fef713b237179f4d6bea899687d91073c457e0487b6efd913902089444a7d2f2  ./Notice of Fi
 107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3  ./SPVGAmindPDF/SPVGAmindPDF.exe
 51398691feef7ae0a876b523aec47c4a06d9a1ee62f1a0aee27de6d6191c68ad  ./SPVGAmindPDF/msvcp140.dll
 a759f9e4ff1c6718f4fe169c29e8a93db61d8740698504044c26f1e30b2e71a0  ./manifest.txt
-cc4e5d175fc85685e7f31c2e7797a3d3a74e751716724b86033e92321fef1bae  ./Bencana_Air_dan_Pandemik_TNB_UTM_23_Oktober_2024_1.rar
 107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3  ./Notice of Final Meeting/Notice of Final Meeting.exe
 1f587ec667709ef0497e825075666ac00932dbf0871ff85d699a03aacab119cb  ./Notice of Final Meeting/AmindPDFCore.dll
 09597c2844067d8ee6713137cd2739f4f3c9009fd8d59a1497424424c96cf341  ./Meeting Request--30-31-05.zip
@@ -15,9 +14,6 @@ f00e5ff2dc47a7625c86ac89784d5aa26b210a8437b9fb150b66eb3798b3c1d6  ./Interview wi
 125963434afa6234bd54db6c5e73a68ff34a30c6623841dd9aa0f4275afe8efa  ./Interview with Surachet Praweewongwut/คำถามสัมภาษณ์ ส.ส.บัญชีรายชื่อ สุรเชษฐ์ ประวีณวงศ์วุฒิ เรื่องรัฐบาลขยายสัมปทานเอื้อกลุ่มทุน-th.docx
 0bd114fecfd3c09820fa013d8cd8aadedee69906b6f81a2e827bba68ddf1023b  ./Interview with Surachet Praweewongwut/AmindPDFCore.dll
 107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3  ./Interview with Surachet Praweewongwut/คำถามสัมภาษณ์ ส.ส.บัญชีรายชื่อ สุรเชษฐ์ ประวีณวงศ์วุฒิ เรื่องรัฐบาลขยายสัมปทานเอื้อกลุ่มทุน-en.exe
-107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3  ./Bencana_Air_dan_Pandemik_TNB_UTM_23_Oktober_2024_1/Bencana_Air_dan_Pandemik_TNB_UTM_23_Oktober_2024_1.pdf.exe
-2a3e976a43e8d611f10e28a63667741df7de68f33e8956a01b442840939bd9ff  ./Bencana_Air_dan_Pandemik_TNB_UTM_23_Oktober_2024_1/Bencana_Air_dan_Pandemik_TNB_UTM_23_Oktober_2024_1.pdf
-0bd114fecfd3c09820fa013d8cd8aadedee69906b6f81a2e827bba68ddf1023b  ./Bencana_Air_dan_Pandemik_TNB_UTM_23_Oktober_2024_1/AmindPDFCore.dll
 107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3  ./Meeting Request--30-31-05/Meeting Request-Thursday, May 30 to Friday, May 31, 2024.exe
 3af7807efb10525196c562c1f91d2f009c836630a899f76e2db80ae7c1714d01  ./Meeting Request--30-31-05/AmindPDFCore.dll
 107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3  ./Guidelines for Driving Soft Power to Promote Thailand's Image and Competitiveness on the World Stage/a0.Guidelines for Driving Soft Power to Promote Thailand's Image and Competitiveness on the World Stage.pdf.exe
