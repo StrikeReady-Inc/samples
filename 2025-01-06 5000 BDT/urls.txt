@@ -31,3 +31,4 @@ mail.tsinghua.edu.cn.81-cn.info
 news-gov-cn.info
 uat-updates.gateway.ceair.com.81-cn.info
 updates.moe.gov.cn.81-cn.info
+vrms.bangladeshbaank-gov-bd.workers.dev
