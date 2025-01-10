@@ -1,0 +1,5 @@
+D:\0xCP_C_hex\hex_CPP\Release\hex_CPP.pdb
+D:\0xCP_C_hex\hex_CPP\x64\Release\hex_CPP.pdb
+D:\0xCP_C_hex\hex_C\hex_C\obj\Release\Advapi.pdb
+D:\powershell_CPP\x64\Release\powershell_CPP.pdb
+D:\powershell_CS\powershell_CS\obj\Release\Advapi.pdb
