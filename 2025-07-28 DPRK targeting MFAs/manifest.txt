@@ -1,0 +1,4 @@
+59ed600b44adc7cb5ac2156e4ff683a7d04ca6ef097678d625764efc2965d0f0  ofx.txt
+9f2c1dcc8e1386805de6abc1cf1916b07ab21471fbe82df5fc436dd825f99ff2  onf.txt
+294743e312a79f5f0cc1aec31da4b9e466df40c26cf4b96fd5d538dfa294860b  open-pm-kk.txt
+4a3e9f6b214effe5028a0bf36776190916621fd7977bf3720cb6ead34d9ee20d  Urgent Letter from the Ambassador Embassy of Poland.pdf.lnk
