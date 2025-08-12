@@ -1,0 +1,4 @@
+93ee82293690ec19f38f1aaa99230c5496032057de4ebf55b634c14ca58f2f49  Щодо фактів отримання неправомірної вигоди 2-1273-2025_12.08.2025.HTA
+674e0520812eaff7419b8a2a7d720c58059d43c3ca2ece3ee00a7a496e28e8e8  Щодо фактів отримання неправомірної вигоди 2-1273-2025_12.08.2025.HTA.BZ2
+70388ac654ed8d4a2a2ef7c8942d5a7fee3b1736438ad01aa6142137dbeb67a7  ProgressReport.jse
+bb5b81f4b1113cd94b05a99f404268944fd1cbe2aabde3f682e664978060531f  ProgressReport.jse.xz
